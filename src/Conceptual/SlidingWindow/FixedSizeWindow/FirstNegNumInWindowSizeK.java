@@ -16,7 +16,7 @@ public class FirstNegNumInWindowSizeK {
 
     public static ArrayList<Integer> firstNegNumInWindowSizeK(int[] arr, int k){
         ArrayList<Integer> res = new ArrayList<>();
-        Queue<Integer> negQ = new LinkedList<>();
+        Queue<Integer> negQ = new LinkedList<>(); /**/
         int i=0, j=0;
         while(j< arr.length){
             if(arr[j] < 0) {
