@@ -1,4 +1,4 @@
-package Conceptual.SlidingWindow;
+package Conceptual.SlidingWindow.FixedSizeWindow;
 
 //https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1/
 public class MaxSumSubArrayOfSizeK {

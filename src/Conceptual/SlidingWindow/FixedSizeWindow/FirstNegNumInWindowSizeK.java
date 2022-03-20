@@ -1,4 +1,4 @@
-package Conceptual.SlidingWindow;
+package Conceptual.SlidingWindow.FixedSizeWindow;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
