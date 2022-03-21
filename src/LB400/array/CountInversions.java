@@ -1,4 +1,4 @@
-package LB400;
+package LB400.array;
 
 //https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#
 //mini extension to merge sort

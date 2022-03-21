@@ -1,4 +1,4 @@
-package LB400;
+package LB400.array;
 
 public class MaxMinInArray {
 

@@ -1,4 +1,4 @@
-package LB400;
+package LB400.array;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
